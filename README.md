@@ -65,6 +65,7 @@ I am a Aspiring Data Science Enthusiast and Problem Solver.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
 
