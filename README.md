@@ -25,8 +25,6 @@ I am a Aspiring Data Science Enthusiast and Problem Solver.
 
 - :seedling: Exploring AI and Machine learning and Computer Vison.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Roshan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/r0shan-basnet/)
 
 
