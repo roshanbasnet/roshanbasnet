@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/r0shan-basnet/">
+  <a href="https://www.linkedin.com/in/roshanbasnet/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
